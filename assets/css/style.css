@@ -1,0 +1,13 @@
+.bubble
+  {
+    background: #e02424;    
+    margin-left:7px;
+    right: 5px;
+    top: -5px;
+    padding: 3px 9px;
+    color: #fff;
+    font: bold .9em Tahoma, Arial, Helvetica;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+  }
